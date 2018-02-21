@@ -1,0 +1,2 @@
+[30-May-2017 08:27:25 UTC] PHP Parse error:  syntax error, unexpected '$clientid' (T_VARIABLE) in /home/edftpjra/public_html/EGSPortal/application/modules/guest/views/phasor.php on line 9
+[30-May-2017 08:28:26 UTC] PHP Parse error:  syntax error, unexpected '$clientid' (T_VARIABLE) in /home/edftpjra/public_html/EGSPortal/application/modules/guest/views/phasor.php on line 9
